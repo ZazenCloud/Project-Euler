@@ -1,2 +1,2 @@
 # Project-Euler
-The journey of solving all problems of https://projecteuler.net/archives
+Some problems from https://projecteuler.net/archives solved in Python.
