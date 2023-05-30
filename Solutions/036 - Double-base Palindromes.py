@@ -1,6 +1,6 @@
 def is_palindromic(n):
-    base2 = bin(n)[2:]
     base10 = str(n)
+    base2 = bin(n)[2:]
     return base10 == base10[::-1] and base2 == base2[::-1]
 
 
